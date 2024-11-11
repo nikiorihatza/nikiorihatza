@@ -5,7 +5,7 @@ I’m a Software Engineer focused on App Development, Web Development and UI/UX 
 ---
 
 ### 🛠 Skills
-- **Languages**: Python, JavaScript, SQL, Java, Dart
+- **Languages**: Python, HTML / CSS / JAVASCRIPT, SQL, Java, Dart
 - **Frameworks**: Node.js, Flutter, Spring
 - **Tools**: Git, Docker, VS Code, JetBRains IDE, Figma
 - **Methodologies**: Agile, Test-Driven Development
